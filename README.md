@@ -51,7 +51,7 @@ A full-stack **Inventory Management Dashboard** web application built to showcas
 ###  Backend Setup
 
 ```bash
-cd Inventory_management/my-project-backend
+cd Inventory-management-dashboard/server
 
 
 npm install
