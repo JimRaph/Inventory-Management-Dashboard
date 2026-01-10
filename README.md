@@ -62,3 +62,13 @@ npx prisma generate
 
 
 npm run dev
+```
+
+---
+
+## Frontend Setup
+
+```bash
+cd Inventory-management-dashboard/imd
+npm install
+npm run dev
