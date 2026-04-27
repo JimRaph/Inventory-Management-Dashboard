@@ -13,4 +13,4 @@ jobs:
         run: |
           psql "$DATABASE_URL" -c "SELECT 1;"
         env:
-          DATABASE_URL: ${{ secrets.SUPABASE_URL }}
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
